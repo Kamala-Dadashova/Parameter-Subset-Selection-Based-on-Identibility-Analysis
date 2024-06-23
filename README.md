@@ -36,4 +36,4 @@ This methodology is particularly useful for reducing model complexity, improving
 ## Codes
 - **Log_transformation.m** is the main script, includes a computation of sensitivities and sensitivity matrix. 
 - **PSS_SVD.m** and **PSS_SVD_onedec** are algorithms I developed to find identifiable parameter subset. 
-- **RelativeError.m** and **metrics.m** are for qualitative and quantitative verification of identifiable parameter ubset based on pre-defined threshold value. 
+- **RelativeError.m** and **metrics.m** are for qualitative and quantitative verification of identifiable parameter subset based on pre-defined threshold value. 
