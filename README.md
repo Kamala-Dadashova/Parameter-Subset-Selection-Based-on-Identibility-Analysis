@@ -8,7 +8,7 @@ The first chapter of my dissertation is about local sensitivity-based parameter 
 - **Parameter Subset Selection (PSS)**: Identifies a subset of parameters that are most critical for accurate model predictions.
 
 ## Developed Algorithms to Find Identifiable Parameters:
-1. **Parameter Subset Selection**:
+1. **Parameter Subset Selection Algorithms**:
    - **All-at-Once (AAO)**: Uses singular value decomposition (SVD) to identify non-identifiable parameters.
    - **One-at-a-Time (OAT)**: Iteratively removes the least identifiable parameter and recalculates the SVD.
 3. **Verification**:
@@ -23,11 +23,8 @@ The first chapter of my dissertation is about local sensitivity-based parameter 
 This methodology is particularly useful for reducing model complexity, improving parameter estimation, and enhancing the robustness of PBPK models in drug development, especially for antibody therapeutics in the CNS.
 
 ## References:
-- Bloomingdale et al. (2021)
-- Chang et al. (2019)
-- Additional references as cited in the paper.
 - [Link to Full Paper](https://link.springer.com/article/10.1007/s11538-023-01234-4)
-
+- Bloomingdale et al. (2021)
 
 ## Tools and Software:
 - **Matlab (ver. 2022a)**: Used for solving the system of differential equations and performing sensitivity analysis.
