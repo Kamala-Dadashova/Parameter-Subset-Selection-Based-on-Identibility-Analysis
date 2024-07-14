@@ -1,6 +1,6 @@
 # Local Identifiability Analysis, Parameter Subset Selection, and Verification for a Minimal Brain PBPK Model
 
-The first chapter of my dissertation is about local sensitivity-based parameter subset selection algorithm for a minimal PBPK (Physiologically-based pharmacokinetic) model of the brain, which is critical for understanding drug delivery in the central nervous system. The approach focuses on identifying parameters that can be uniquely determined from experimental data, ensuring model accuracy for key concentrations. These results have been published.
+The first chapter of my dissertation is about local sensitivity-based parameter subset selection algorithm for a minimal PBPK (Physiologically-based pharmacokinetic) model of the brain, which is critical for understanding drug delivery in the central nervous system. The approach focuses on identifying parameters that can be uniquely determined from experimental data, ensuring model accuracy for key concentrations. **These results have been published.** You can find the paper in the References part below.
 
 ## Key Concepts:
 - **Parameter Identifiability**: Determines which parameters in the model can be uniquely identified from the data.
